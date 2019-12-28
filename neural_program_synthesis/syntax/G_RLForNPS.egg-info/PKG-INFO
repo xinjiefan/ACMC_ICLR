@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: G-RLForNPS
+Version: 0.0.1.dev1
+Summary: Research code for the paperLeveraging Grammar and Reinforcement Learning for Neural Program Synthesis
+Home-page: UNKNOWN
+Author: Rudy Bunel
+Author-email: rudy@robots.ox.ac.uk
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Provides-Extra: tests
+Provides-Extra: dev

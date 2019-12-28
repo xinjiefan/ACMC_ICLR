@@ -1,0 +1,17 @@
+cython
+sh
+tqdm
+numpy
+torch
+torchvision
+GitPython
+pathlib
+matplotlib
+
+[dev]
+ipython
+ipdb
+
+[tests]
+mypy
+flake8
